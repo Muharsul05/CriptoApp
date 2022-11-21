@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CriptoApp</string>
+    <string name="symbols_template">%s / %s</string>
+    <string name="last_update_template">Время последнего обнавления: %s</string>
+    <string name="todo">TODO</string>
+    <string name="price">Цена:</string>
+    <string name="MinimumOfDay">Минимум в день:</string>
+    <string name="RandomNumber">12321.432</string>
+    <string name="MaximumOfDay">Максимум в день:</string>
+    <string name="Update">Обновлено:</string>
+    <string name="LastMarket">Последняя сделка:</string>
+</resources>
